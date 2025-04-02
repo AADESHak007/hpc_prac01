@@ -5,3 +5,4 @@
 * add origin
 * switch branch to main
 * push the code to origin via `CLI` 
+* #### updating the code and then pushing it again 
